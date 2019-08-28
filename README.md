@@ -1,6 +1,6 @@
 ### Delays of Cracows trams - prediction
 
-Data originaly comes from  TTSS [Traffic Tram Supervision System](ttss.krakow.pl/internetservice/). I used [data collected and cleared by A.Czepielik in July 2018](https://github.com/aczepielik/KRKtram/tree/master/reports).
+Data originaly comes from  TTSS [Traffic Tram Supervision System](http://www.ttss.krakow.pl/internetservice/). I used [data collected and cleared by A.Czepielik in July 2018](https://github.com/aczepielik/KRKtram/tree/master/reports).
 
 
 Columns:
